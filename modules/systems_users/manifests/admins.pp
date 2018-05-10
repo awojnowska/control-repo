@@ -1,4 +1,4 @@
-class system_users::admins {
+class systems_users::admins {
 
   group {'staff':
     ensure => present,
