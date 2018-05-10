@@ -1,4 +1,4 @@
-class system_users {
+class systems_users {
   user {'fundermentals':
   ensure => 'present',
 #  password => 'puppet8#labs', # password setting
