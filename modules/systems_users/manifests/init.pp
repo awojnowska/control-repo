@@ -4,4 +4,4 @@ class systems_users {
 #  password => 'puppet8#labs', # password setting
 #  groups    => 'Administrator', # add to administrator gorpu
   }
-
+}
