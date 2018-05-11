@@ -1,4 +1,4 @@
-class host_entries{
+class hosts{
   host  { 'syslog':
     ip =>  '10.10.10.10',
   }
